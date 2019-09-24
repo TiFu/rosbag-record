@@ -1,0 +1,13 @@
+<launch>
+    <include file="$(find realsense2_camera)/launch/rs_camera.launch">
+        <arg name="color_width" value="640" />
+        <arg name="color_height" value="480" />
+
+        <arg name="depth_width" value="640" />
+        <arg name="depth_height" value="480" />
+    </include>
+    <node pkg="rosbag" type="record" name="rosbag_record_hrpsys"
+        args="record -o $(find central)/rosbags/kit /camera/color/camera_info /camera/color/image_raw /camera/depth/camera_info /camera/depth/image_rect_raw /camera/extrinsics/depth_to_color"
+     >
+    </node>
+</launch>
