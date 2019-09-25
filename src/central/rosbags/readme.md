@@ -1,0 +1,1 @@
+# Zip rosbags before uploading please.
