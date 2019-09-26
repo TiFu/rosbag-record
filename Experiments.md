@@ -3,7 +3,7 @@
 ## Vorbereitung
 
 1. Dieses Repo korrekt aufsetyen, Intel-Kamera vorbereiten.
-2. In jeder Situation bitte einige Zeit aus unterschiedlichsten Hohen (Hufte bis Kopf oder so) und Perspektiven (Vorne, seitlich, hinten) filmen.
+2. In jeder Situation bitte einige Zeit aus unterschiedlichsten Hohen (Hufte bis Kopf oder so) und Perspektiven (Vorne, seitlich, hinten) sowie Abständen filmen.
 3. Jede Situation bitte auch moglichst mit unterschiedlichen Leuten machen - so dass der Datensatz etwas mehr Variation bekommt
 4. Wenn du/ihr noch weitere Ideen habt, konnt ihr die gerne auch verwirklichen.
 
@@ -14,6 +14,7 @@
 n = 1 bis 5
 
 - n Personen laufen zusammen den Gang entlang
+- **WICHTIG**: Bitte auch mehrmals mit nur einer Person (mit unterschiedlichen Personen!) machen, die den Gang entlang läuft 
 
 ### n Personen: Gang aus entgegengesetzten Richtugen aufeinander
 
